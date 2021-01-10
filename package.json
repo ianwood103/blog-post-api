@@ -1,0 +1,24 @@
+{
+  "name": "blog-post-api",
+  "version": "1.0.0",
+  "description": "Simple RESTful API for making blog posts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianwood103/blog-post-api.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "blog"
+  ],
+  "author": "Ian Wood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianwood103/blog-post-api/issues"
+  },
+  "homepage": "https://github.com/ianwood103/blog-post-api#readme"
+}
